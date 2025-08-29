@@ -84,7 +84,6 @@ h1 {
   color: #42a5f5;
 }
 
-/* ✅ Winner Popup */
 .popup {
   display: none;
   position: fixed;
@@ -171,7 +170,7 @@ h1 {
   background: #558de8;
 }
 
-/* User Info Styles */
+
 #user-info {
   text-align: center;
   margin-bottom: 20px;
